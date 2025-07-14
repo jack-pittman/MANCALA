@@ -1,0 +1,5 @@
+TODOS: 
+
+1. ENEMY WELL BUG - fix sowing-in-enemie's well bug (basically need to figure out how to "skip" the opponent's well when sowing around the board)
+2. EXTRA TURN - need to add extra turn when player lands in their own well (something in gameloop probably)
+3. AVALANCHE MODE - figure out how to stack sowing moves (probably just an iterator you need to add)
